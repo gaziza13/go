@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/gaziza13/go/api"
+	"github.com/gaziza13/go/tsis1/api"
 )
 
 func main() {
